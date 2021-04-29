@@ -14,9 +14,9 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="20" height="20"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/></p><p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=giovannalimaa&show_icons=true" alt="maykbrito"/> 
+<img src="https://github-readme-stats.vercel.app/api?username=giovannalimaa&show_icons=true" alt="giovannalimaa"/> 
 </p>
 
 
-<a href="https://www.linkedin.com/in/giovanna-lima-764a37194" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="maykbrito" height="20" width="20" /></a>
+<a href="https://www.linkedin.com/in/giovanna-lima-764a37194" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="giovannalimaa" height="20" width="20" /></a>
 </p>
