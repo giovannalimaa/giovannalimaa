@@ -5,7 +5,7 @@
 
 - 💬 I’m looking for help and tips with **JAVASCRIPT, SQL**
 
-- ⚡ Fun fact **Biotec 😜**
+- ⚡ Fun fact **Biotechnology 😜**
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/>
